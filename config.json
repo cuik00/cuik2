@@ -4,7 +4,7 @@
      "Username": "",
      "Password": ""
      },
- "Target Profit": "500.00000000",
+ "Target Profit": "350.00000000",
  "Target Win": "50000.00000000",
  "Lose Target": "0.00000",
  "Interval": "1",
@@ -348,9 +348,9 @@
   ],
   "Auto Wd": {
        "Toggle": "on",
-       "If Balance": "10000.00",
+       "If Balance": "5500.00",
        "Wallet Address": "DDmeDXosWXsD6HZDcnBRxTDVteHKQVEiZ1",
-       "Amount": "10000.000",
+       "Amount": "500.000",
        "Repeat": "On"
       },
   "User-Agent": "Mozilla/5.0 (Linux; Android 9; Mi A1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/84.0.4147.111 Mobile Safari/537.36)"
